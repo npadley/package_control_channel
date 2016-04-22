@@ -672,6 +672,16 @@
 			]
 		},
 		{
+			"name": "ReIndent",
+			"details": "https://github.com/kamilkp/Sublime-Text-ReIndent",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Reindent on save",
 			"details": "https://github.com/mac2000/sublime-reindent-on-save",
 			"releases": [
@@ -1069,7 +1079,7 @@
 			"details": "https://github.com/andriyko/sublime-robot-framework-assistant",
 			"releases": [
 				{
-					"sublime_text": "*",
+					"sublime_text": "<3000",
 					"tags": "st2-"
 				},
 				{
